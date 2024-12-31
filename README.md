@@ -3,7 +3,6 @@
 - 🌱 I'm currently learning C# programming language
 - 💞️ I want to collaborate on software
 - 📫 How to contact me
--     email: vianhartanto1140@gmail.com
 - 😄 Pronouns: HyDRA
 - ⚡ Interesting fact: Difficulty in learning C++ programming language
 
